@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# my project settings
+Part 1/*.csv
+Part 2/raw data/*
+!.gitkeep
